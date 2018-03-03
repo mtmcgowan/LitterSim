@@ -1,0 +1,17 @@
+# Integer guide for phenotype traits
+
+# Individuals
+ind_string <- c('father', 'mother', 'pat_grandpa', 'pat_grandma', 'mat_grandpa', 'mat_grandma')
+ind_int <- c(0,1,2,3,4,5)
+
+# Eye color
+eye_string <- c('blue', 'green', 'brown')
+
+eye_int <- c(0, 1, 2)
+
+# Hair color
+hair_string <- c('black', 'brown', 'blond', 'auburn', 'red')
+
+hair_int <- c(0, 1, 2, 3, 4, 5)
+
+# Height is coded as an integer in inches
